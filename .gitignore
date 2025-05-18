@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.png
+*.jpg
+*.jpeg
+*.bmp
+.vscode/
+build/
